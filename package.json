@@ -1,0 +1,31 @@
+{
+  "name": "salmanzafar949-verify-jwt",
+  "version": "0.1.0",
+  "description": "Verify jwt(json web token on your front end)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanzafar949/JWTVerify.git"
+  },
+  "keywords": [
+    "JWT",
+    "Json- Web-Token"
+  ],
+  "author": "Salman Zafar <salmanzafar949@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salmanzafar949/JWTVerify/issues"
+  },
+  "homepage": "https://github.com/salmanzafar949/JWTVerify#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "mock-local-storage": "^1.1.11"
+  }
+}
