@@ -1,5 +1,5 @@
 {
-  "name": "salmanzafar949-jwt-verifier",
+  "name": "jwt-verifier",
   "version": "0.1.0",
   "description": "Verify jwt(json web token on your front end)",
   "main": "index.js",
